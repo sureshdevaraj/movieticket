@@ -1,0 +1,19 @@
+{
+  "vz_proxy": "http://sacproxy.verizon.com",
+  "UFD_rest_api": "https://www.verizon.com/foryourhome/vzrepair/flowengine/restapi.ashx",
+  "FTCV_rest_api": "https://www.verizon.com/fiostv/myservices/admin/botapinew.ashx",
+  "headersInfo": { "Content-Type": "application/json" },
+   "FlowName": "TroubleShooting Flows\\ChatBot\\APIChatBot.xml",
+  "AccountLink": "https://www98.verizon.com/vzssobot/upr/preauth",
+  "vzImage": "https://www.verizon.com/vzssobot/content/verizon-logo-200.png",
+  "FBPAGEACCESSTOKEN": "EAAKXHZCZAoz3ABANmugoV1rikuQ5fNtSdyEllNBxee2DKGenECtgZAjNW5ZAXBleplRy2PywvOzICibFa4KuqlvpRfoBu4W55F0cJbsb8hOBh6rajKpCDMKmPdm826sGhHCo2L3Bpsa77HrR86ETQTvU6Sc7cywXDbLJ7JpOdAZDZD",
+  "FBVERIFYTOKEN": "CAA30DE7-CC67-4CBA-AF93-2B1C5C4C19D4",
+  "APIAIACCESSTOKEN": "ba4202d56cf34d9c9b1dfb12162efc7f",
+  "Facebook_SenderID": "1807994092745948",
+  "EMail_From": "vzbotdev@verizon.com",
+  "EMail_To": "ramprasath.x.hariharan@one.verizon.com,sarvesh.x.mucheli@one.verizon.com,suresh.k.devaraj@one.verizon.com,Prabu.Kasinathan@one.verizon.com",
+  "isSession": "yes",
+  "Session_URL": "https://tact.verizon.com/ppsh/services/PPSHProcessor",
+  "NLP": "apiai",
+  "sprinkler" : "yes"
+}

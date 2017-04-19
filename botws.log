@@ -1,0 +1,37 @@
+[2017-04-19 19:09:47.888] [DEBUG] botws - Rest service ready on port 1337
+[2017-04-19 19:10:09.094] [DEBUG] botws - Error while subscription:  { Error: tunneling socket could not be established, cause=connect ETIMEDOUT 138.83.161.241:80
+    at ClientRequest.onError (C:\Users\v892852\Source\Repos\movieticket\node_modules\tunnel-agent\index.js:176:17)
+    at ClientRequest.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:188:7)
+    at Socket.socketErrorListener (_http_client.js:310:9)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9) code: 'ECONNRESET' }
+[2017-04-19 19:11:17.215] [DEBUG] botws - Rest service ready on port 1337
+[2017-04-19 19:11:31.231] [DEBUG] botws - Inside api polling
+[2017-04-19 19:11:31.231] [DEBUG] botws - text_request.js===TextRequestCons
+[2017-04-19 19:11:31.231] [DEBUG] botws - query_request.js===QueryRequest
+[2017-04-19 19:11:31.231] [DEBUG] botws - text_request.js===_jsonRequestParameters
+[2017-04-19 19:11:31.231] [DEBUG] botws - query_request.js===_jsonRequestParameters
+[2017-04-19 19:11:31.232] [DEBUG] botws - text_request.js self.query="Hi iam 32.107 polling"
+[2017-04-19 19:11:31.232] [DEBUG] botws - IUnvoking End2
+[2017-04-19 19:11:31.232] [DEBUG] botws - query_request.js===_requestOptions2
+[2017-04-19 19:11:31.232] [DEBUG] botws - Request.js = _requestOptions2
+[2017-04-19 19:11:31.232] [DEBUG] botws - text_request.js===_headers
+[2017-04-19 19:11:31.232] [DEBUG] botws - request.js===_headers
+[2017-04-19 19:11:31.232] [DEBUG] botws - Final Request{"headers":{"Accept":"application/json","Authorization":"Bearer ba4202d56cf34d9c9b1dfb12162efc7f","api-request-source":"fb","Content-Type":"application/json; charset=utf-8"},"uri":"https://api.api.ai/v1/query?v=20150910","method":"POST","proxy":"http://sacproxy.verizon.com","body":"{\"lang\":\"en\",\"sessionId\":\"e56d76f0-2505-11e7-a16d-5bf3ddf3c630\",\"query\":\"Hi iam 32.107 polling\"}"}
+[2017-04-19 19:11:38.418] [DEBUG] botws - Error while subscription:  { Error: tunneling socket could not be established, cause=connect ETIMEDOUT 138.83.161.241:80
+    at ClientRequest.onError (C:\Users\v892852\Source\Repos\movieticket\node_modules\tunnel-agent\index.js:176:17)
+    at ClientRequest.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:188:7)
+    at Socket.socketErrorListener (_http_client.js:310:9)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9) code: 'ECONNRESET' }
+[2017-04-19 19:11:52.432] [DEBUG] botws - Error on sending polling request to api.ai Error: tunneling socket could not be established, cause=connect ETIMEDOUT 138.83.161.241:80

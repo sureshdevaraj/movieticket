@@ -1,0 +1,30 @@
+{
+  "name": "api-ai-facebook",
+  "version": "1.0.0",
+  "description": "API.AI Facebook Bot",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danil Skachkov <danil.skachkov@speaktoit.com> (https://api.ai)",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.0",
+    "body-parser": "^1.15.2",
+    "express": "^4.13.3",    
+    "html-entities": "^1.2.0",
+    "json-bigint": "^0.2.0",   
+    "node-uuid": "^1.4.7",
+    "request": "^2.73.0",
+    "winston":"^2.2.0",
+    "log4js":"^0.6.38",
+    "util": "^0.10.3",
+    "fs":"0.0.0",
+    "sendmail": "^1.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/api-ai/api-ai-facebook"
+  }
+}

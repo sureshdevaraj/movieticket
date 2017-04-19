@@ -1,0 +1,14 @@
+
+{
+  "vz_proxy": "http://sacproxy.verizon.com",
+  "UFD_rest_api": "https://www.verizon.com/foryourhome/vzrepair/flowengine/restapi.ashx",
+  "FTCV_rest_api": "https://www.verizon.com/fiostv/myservices/admin/botapinew.ashx",
+  "headersInfo": { "Content-Type": "application/json" },
+  "FlowName": "TroubleShooting Flows\\ChatBot\\APIChatBot.xml",
+  "AccountLink": "https://www98.verizon.com/vzssobot/upr/preauth",
+  "vzImage": "https://www98.verizon.com/vzssobot/content/verizon-logo-200.png",
+  "FBPAGEACCESSTOKEN": "EAAaBBUEYitYBALlXiaYZCRtQhZCmNoObV2hHlgZCARLQRU4YHLxeOEAuYPg4ZB1Imfa1rmNktrBEccxf59jkEDnJeU5MuJ5FLpE7lYQGIXuIRpN2aepLTYHLGymZC7JLHYErpRrau030ZAgbRmfqdMekzHOWmA2yLRgTrNxZA3q2AZDZD",
+  "FBVERIFYTOKEN": "CAA30DE7-CC67-4CBA-AF93-2B1C5C4C19D4",
+  "APIAIACCESSTOKEN": "c8021e1a2dac4f85aee8f805a5a920b2",
+  "Facebook_SenderID": "1151171811626231"
+}
