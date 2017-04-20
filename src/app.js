@@ -64,7 +64,7 @@ var ChatHistoryLog = log4js.getLogger('Historylog');
 var app = express();
 app.use(bodyParser.text({ type: 'application/json' }));
 
-app.listen(8081, SEVER_IP_ADDR, function () {
+app.listen(REST_PORT, SEVER_IP_ADDR, function () {
     logger.debug('Rest service ready on port ' + REST_PORT);
 });
 
