@@ -1,0 +1,28 @@
+{
+  "name": movieticket",
+  "description": "A barebones Node.js app using Express 4",
+  "repository": "https://github.com/hramprasath/polis.js",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static", "body-parser"],
+  "image": "heroku/nodejs",
+  "env": {
+    "APP_SECRET": {
+       "description": "dev.botframework",
+      "value": "8-9_vtV_0Bw.cwA.ty8.lwNNtHfAJSmjOokhNOBe4L6IGpkD02lYsQTDxs-0Go4"
+    },
+    "APIAI_ACCESS_TOKEN": {
+      "description": "Client access token for Api.ai",
+      "value": "c8021e1a2dac4f85aee8f805a5a920b2"
+
+    },
+    "APIAI_LANG": {
+      "description": "Agent language",
+      "value": "English",
+      "required": false
+    }
+  },
+  "engines": {
+    "node": "5.10.1"
+  }
+
+}
